@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0",
-  "codigo": 1,
+  "version": "1.0.1",
+  "codigo": 2,
   "url": "https://github.com/Voltaicspa2026/kuyda-actualizaciones/releases/latest/download/kuyda-hub-tv.apk",
-  "notas": "El botón de ayuda funciona sobre cualquier aplicación, y los avisos ya no se pierden con el televisor apagado.",
+  "notas": "Ahora el televisor se enciende solo de noche cuando llega un aviso.",
   "obligatoria": false
 }
