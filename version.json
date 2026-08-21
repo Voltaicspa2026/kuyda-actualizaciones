@@ -1,7 +1,7 @@
 {
-  "version": "1.0.3",
-  "codigo": 4,
+  "version": "1.0.0",
+  "codigo": 1,
   "url": "https://github.com/Voltaicspa2026/kuyda-actualizaciones/releases/latest/download/kuyda-hub-tv.apk",
-  "notas": "El televisor se enciende solo de noche cuando llega un aviso.",
-  "obligatoria": true
+  "notas": "El boton de ayuda funciona sobre cualquier aplicacion.",
+  "obligatoria": false
 }
