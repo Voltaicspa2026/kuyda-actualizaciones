@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "codigo": 1,
+  "codigo": 37,
   "url": "https://github.com/Voltaicspa2026/kuyda-actualizaciones/releases/latest/download/kuyda-hub-tv.apk",
-  "notas": "Version en uso.",
+  "notas": "Ahora la pantalla vuelve sola cuando se corta y regresa el internet.",
   "obligatoria": false
 }
