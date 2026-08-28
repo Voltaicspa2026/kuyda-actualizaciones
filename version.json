@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "codigo": 39,
+  "codigo": 44,
   "url": "https://github.com/Voltaicspa2026/kuyda-actualizaciones/releases/latest/download/kuyda-hub-tv.apk",
-  "notas": "La pantalla ya no se queda en blanco despues de una actualizacion, y vuelve sola cuando regresa el internet.",
+  "notas": "Se acabo la pantalla que quedaba muerta despues de actualizar: ahora se recupera sola, sin que nadie tenga que reiniciar nada. Y la voz habla en espanol aunque el aparato no tenga instalado el de Chile.",
   "obligatoria": false
 }
