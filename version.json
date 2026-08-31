@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "codigo": 46,
+  "codigo": 51,
   "url": "https://github.com/Voltaicspa2026/kuyda-actualizaciones/releases/latest/download/kuyda-hub-tv.apk",
-  "notas": "Ahora TODOS los avisos se ven en la pantalla, no solo las emergencias. Si se abre una puerta, alguien manipula la alarma o hay una fuga de agua, el aviso sale en grande: antes esos solo se escuchaban y no se veian. Y cuando alguien pide ayuda, el mensaje dice desde que pantalla lo pidio.",
+  "notas": "El aviso de que falta un ajuste ya no le aparece a quien vive en la casa: sale solo mientras se instala. Antes le avisaba justo a la persona que no podia arreglarlo, y el boton Arreglar no arreglaba. Ahora eso se le avisa a Kuyda y se repara a distancia. Ademas todos los avisos se ven en la pantalla, no solo las emergencias, y el aviso de ayuda dice desde que pantalla se pidio.",
   "obligatoria": false
 }
