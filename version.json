@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "codigo": 44,
+  "codigo": 46,
   "url": "https://github.com/Voltaicspa2026/kuyda-actualizaciones/releases/latest/download/kuyda-hub-tv.apk",
-  "notas": "Se acabo la pantalla que quedaba muerta despues de actualizar: ahora se recupera sola, sin que nadie tenga que reiniciar nada. Y la voz habla en espanol aunque el aparato no tenga instalado el de Chile.",
+  "notas": "Ahora TODOS los avisos se ven en la pantalla, no solo las emergencias. Si se abre una puerta, alguien manipula la alarma o hay una fuga de agua, el aviso sale en grande: antes esos solo se escuchaban y no se veian. Y cuando alguien pide ayuda, el mensaje dice desde que pantalla lo pidio.",
   "obligatoria": false
 }
