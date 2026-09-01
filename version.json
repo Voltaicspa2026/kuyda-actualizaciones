@@ -1,7 +1,7 @@
-﻿{
-    "version":  "1.0.0",
-    "codigo":  61,
-    "url":  "https://github.com/Voltaicspa2026/kuyda-actualizaciones/releases/latest/download/kuyda-hub-tv.apk",
-    "notas":  "La actualizacion ahora se instala sola.",
-    "obligatoria":  false
+{
+  "version": "1.0.0",
+  "codigo": 62,
+  "url": "https://github.com/Voltaicspa2026/kuyda-actualizaciones/releases/latest/download/kuyda-hub-tv.apk",
+  "notas": "Arreglos de la conserjeria y del protector de pantalla.",
+  "obligatoria": false
 }
