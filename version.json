@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "codigo": 54,
+  "codigo": 55,
   "url": "https://github.com/Voltaicspa2026/kuyda-actualizaciones/releases/latest/download/kuyda-hub-tv.apk",
-  "notas": "Cuando le avisan de una visita, ahora dice ENTENDIDO en vez de ESTOY BIEN, y su respuesta le llega al conserje.",
+  "notas": "Los avisos del edificio ya no salen como alarma roja. Y en una alerta de gas ahora manda a llamar a Bomberos.",
   "obligatoria": false
 }
