@@ -1,7 +1,7 @@
 {
     "version":  "1.0.0",
-    "codigo":  92,
+    "codigo":  91,
     "url":  "https://github.com/Voltaicspa2026/kuyda-actualizaciones/releases/latest/download/kuyda-hub-tv.apk",
-    "notas":  "Prueba de actualizacion automatica",
+    "notas":  "Franja de recordatorios, aviso legible en celular, y la voz ya no se encima",
     "obligatoria":  false
 }
