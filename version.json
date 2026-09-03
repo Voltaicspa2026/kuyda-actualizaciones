@@ -1,7 +1,7 @@
 {
     "version":  "1.0.0",
-    "codigo":  91,
+    "codigo":  94,
     "url":  "https://github.com/Voltaicspa2026/kuyda-actualizaciones/releases/latest/download/kuyda-hub-tv.apk",
-    "notas":  "Franja de recordatorios, aviso legible en celular, y la voz ya no se encima",
+    "notas":  "Los recordatorios ahora suenan aunque la television lleve rato en otra cosa, y ya no se pierden si el aviso se atrasa unos minutos.",
     "obligatoria":  false
 }
