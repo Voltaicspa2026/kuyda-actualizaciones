@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.0",
-    "codigo":  102,
-    "url":  "https://github.com/Voltaicspa2026/kuyda-actualizaciones/releases/latest/download/kuyda-hub-tv.apk",
-    "notas":  "La actualizacion ya no se pospone si la television estaba en uso: espera a que se desocupe.",
-    "obligatoria":  false
+    "version": "1.0.0",
+    "codigo": 95,
+    "url": "https://github.com/Voltaicspa2026/kuyda-actualizaciones/releases/latest/download/kuyda-hub-tv.apk",
+    "notas": "Freno de la noche del 2-sep: nada se actualiza hasta manana.",
+    "obligatoria": false
 }
