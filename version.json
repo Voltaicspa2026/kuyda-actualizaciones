@@ -1,7 +1,7 @@
 {
     "version":  "1.0.0",
-    "codigo":  94,
+    "codigo":  96,
     "url":  "https://github.com/Voltaicspa2026/kuyda-actualizaciones/releases/latest/download/kuyda-hub-tv.apk",
-    "notas":  "Los recordatorios ahora suenan aunque la television lleve rato en otra cosa, y ya no se pierden si el aviso se atrasa unos minutos.",
+    "notas":  "El televisor ahora se actualiza solo aunque nadie abra la aplicacion, por ejemplo despues de un corte de luz.",
     "obligatoria":  false
 }
