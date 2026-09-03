@@ -1,7 +1,7 @@
 {
     "version":  "1.0.0",
-    "codigo":  100,
+    "codigo":  102,
     "url":  "https://github.com/Voltaicspa2026/kuyda-actualizaciones/releases/latest/download/kuyda-hub-tv.apk",
-    "notas":  "Arreglos internos para que el televisor se instale las actualizaciones solo, sin que nadie abra la aplicacion.",
+    "notas":  "La actualizacion ya no se pospone si la television estaba en uso: espera a que se desocupe.",
     "obligatoria":  false
 }
