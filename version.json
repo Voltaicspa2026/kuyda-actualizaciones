@@ -1,7 +1,7 @@
 {
-    "version": "1.0.0",
-    "codigo": 95,
-    "url": "https://github.com/Voltaicspa2026/kuyda-actualizaciones/releases/latest/download/kuyda-hub-tv.apk",
-    "notas": "Freno de la noche del 2-sep: nada se actualiza hasta manana.",
-    "obligatoria": false
+  "version": "1.0.0",
+  "codigo": 127,
+  "url": "https://github.com/Voltaicspa2026/kuyda-actualizaciones/releases/latest/download/kuyda-hub-tv.apk",
+  "notas": "Un mensaje reenviado vuelve a mostrarse y a hablar; los carteles viejos ya no reaparecen al abrir la app.",
+  "obligatoria": false
 }
