@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "codigo": 95,
+  "codigo": 148,
   "url": "https://github.com/Voltaicspa2026/kuyda-actualizaciones/releases/latest/download/kuyda-hub-tv.apk",
-  "notas": "Freno de la noche del 2-sep: nada se actualiza hasta manana.",
+  "notas": "El boton de ayuda dice la verdad: solo avisa 'enviado' cuando llego, y funciona aunque la tele se encienda sin internet.",
   "obligatoria": false
 }
