@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.0",
-    "codigo":  157,
-    "url":  "https://github.com/Voltaicspa2026/kuyda-actualizaciones/releases/download/v157/kuyda-hub-tv.apk",
-    "notas":  "El boton de ayuda es mas seguro: siempre pregunta antes de avisar, el OK siempre pide ayuda, y la tele no insiste si se corta internet.",
-    "obligatoria":  false
+  "version": "1.0.0",
+  "codigo": 164,
+  "url": "https://github.com/Voltaicspa2026/kuyda-actualizaciones/releases/download/v164/kuyda-hub-tv.apk",
+  "notas": "La tele se actualiza sola aunque nadie abra Kuyda: en un momento tranquilo, de noche (2 a 5) o a las 48 horas, nunca durante una alerta. Y las apps del celular ya no piden microfono.",
+  "obligatoria": false
 }
