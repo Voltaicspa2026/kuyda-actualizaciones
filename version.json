@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "codigo": 164,
-  "url": "https://github.com/Voltaicspa2026/kuyda-actualizaciones/releases/download/v164/kuyda-hub-tv.apk",
-  "notas": "La tele se actualiza sola aunque nadie abra Kuyda: en un momento tranquilo, de noche (2 a 5) o a las 48 horas, nunca durante una alerta. Y las apps del celular ya no piden microfono.",
+  "codigo": 167,
+  "url": "https://github.com/Voltaicspa2026/kuyda-actualizaciones/releases/download/v167/kuyda-hub-tv.apk",
+  "notas": "Los carteles salen aunque nadie abra Kuyda. El boton de ayuda dice solo lo que de verdad paso: si ya se aviso a la familia, si no hay nadie inscrito o si la familia vio el aviso, con voz grabada que se escucha aunque la tele congele su propia voz.",
   "obligatoria": false
 }
