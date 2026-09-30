@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "codigo": 167,
-  "url": "https://github.com/Voltaicspa2026/kuyda-actualizaciones/releases/download/v167/kuyda-hub-tv.apk",
-  "notas": "Los carteles salen aunque nadie abra Kuyda. El boton de ayuda dice solo lo que de verdad paso: si ya se aviso a la familia, si no hay nadie inscrito o si la familia vio el aviso, con voz grabada que se escucha aunque la tele congele su propia voz.",
+  "codigo": 168,
+  "url": "https://github.com/Voltaicspa2026/kuyda-actualizaciones/releases/download/v168/kuyda-hub-tv.apk",
+  "notas": "Mas privacidad y mas firme: la tele ya no pide permiso para leer archivos, un cartel que no pudo mostrarse se vuelve a intentar, y la tele vuelve a escuchar la respuesta al pedido de ayuda si se corta la conexion.",
   "obligatoria": false
 }
