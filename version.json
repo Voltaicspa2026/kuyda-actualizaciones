@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0",
-  "codigo": 168,
-  "url": "https://github.com/Voltaicspa2026/kuyda-actualizaciones/releases/download/v168/kuyda-hub-tv.apk",
-  "notas": "Mas privacidad y mas firme: la tele ya no pide permiso para leer archivos, un cartel que no pudo mostrarse se vuelve a intentar, y la tele vuelve a escuchar la respuesta al pedido de ayuda si se corta la conexion.",
-  "obligatoria": false
+    "version":  "1.0.0",
+    "codigo":  169,
+    "url":  "https://github.com/Voltaicspa2026/kuyda-actualizaciones/releases/download/v169/kuyda-hub-tv.apk",
+    "notas":  "Kuyda ahora funciona en los televisores con Android 14: antes se cerraba sola una y otra vez en esos equipos y no avisaba. Probada en la Caixun de Curauma.",
+    "obligatoria":  false
 }
