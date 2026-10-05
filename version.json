@@ -1,7 +1,7 @@
 {
     "version":  "1.0.0",
-    "codigo":  169,
-    "url":  "https://github.com/Voltaicspa2026/kuyda-actualizaciones/releases/download/v169/kuyda-hub-tv.apk",
-    "notas":  "Kuyda ahora funciona en los televisores con Android 14: antes se cerraba sola una y otra vez en esos equipos y no avisaba. Probada en la Caixun de Curauma.",
+    "codigo":  171,
+    "url":  "https://github.com/Voltaicspa2026/kuyda-actualizaciones/releases/download/v171/kuyda-hub-tv.apk",
+    "notas":  "Al encender o actualizarse, la tele muestra el logo y la marca Kuyda mientras arranca. Mejoras internas.",
     "obligatoria":  false
 }
