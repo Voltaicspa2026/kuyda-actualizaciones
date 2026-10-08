@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.0",
-    "codigo":  171,
-    "url":  "https://github.com/Voltaicspa2026/kuyda-actualizaciones/releases/download/v171/kuyda-hub-tv.apk",
-    "notas":  "Al encender o actualizarse, la tele muestra el logo y la marca Kuyda mientras arranca. Mejoras internas.",
-    "obligatoria":  false
+  "version": "1.0.0",
+  "codigo": 179,
+  "url": "https://github.com/Voltaicspa2026/kuyda-actualizaciones/releases/download/v179/kuyda-hub-tv.apk",
+  "notas": "Más estable: la tele ya no se cierra con canales que llegan sin imagen. Mejoras internas.",
+  "obligatoria": false
 }
