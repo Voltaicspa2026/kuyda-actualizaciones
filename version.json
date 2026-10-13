@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "codigo": 179,
-  "url": "https://github.com/Voltaicspa2026/kuyda-actualizaciones/releases/download/v179/kuyda-hub-tv.apk",
-  "notas": "Más estable: la tele ya no se cierra con canales que llegan sin imagen. Mejoras internas.",
+  "codigo": 180,
+  "url": "https://github.com/Voltaicspa2026/kuyda-actualizaciones/releases/download/v180/kuyda-hub-tv.apk",
+  "notas": "La tele muestra recomendaciones de SENAPRED cuando hay lluvia, tormenta, viento, calor o heladas, y avisa la tarde antes. Mas estable al buscar actualizaciones.",
   "obligatoria": false
 }
