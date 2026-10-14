@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "codigo": 180,
-  "url": "https://github.com/Voltaicspa2026/kuyda-actualizaciones/releases/download/v180/kuyda-hub-tv.apk",
-  "notas": "La tele muestra recomendaciones de SENAPRED cuando hay lluvia, tormenta, viento, calor o heladas, y avisa la tarde antes. Mas estable al buscar actualizaciones.",
+  "codigo": 181,
+  "url": "https://github.com/Voltaicspa2026/kuyda-actualizaciones/releases/download/v181/kuyda-hub-tv.apk",
+  "notas": "El Metro solo en las teles de Santiago. Cada tele muestra las alertas de la Direccion Meteorologica de su region y los cortes de agua de su sector. La lluvia se avisa solo mientras llueve o va a llover pronto.",
   "obligatoria": false
 }
