@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0",
-  "codigo": 182,
-  "url": "https://github.com/Voltaicspa2026/kuyda-actualizaciones/releases/download/v182/kuyda-hub-tv.apk",
-  "notas": "Las recomendaciones y alertas de la pantalla entran suave y su borde brilla cada pocos segundos para que se noten.",
-  "obligatoria": false
+    "version":  "1.0.0",
+    "codigo":  183,
+    "url":  "https://github.com/Voltaicspa2026/kuyda-actualizaciones/releases/download/v183/kuyda-hub-tv.apk",
+    "notas":  "Modo calor y limpieza de instaladores viejos",
+    "obligatoria":  false
 }
