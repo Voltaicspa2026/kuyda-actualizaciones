@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "codigo": 187,
-  "url": "https://github.com/Voltaicspa2026/kuyda-actualizaciones/releases/download/v187/kuyda-hub-tv.apk",
-  "notas": "La tele muestra la comuna real de la casa: se pone una vez desde el panel (con el GPS del celular o escribiendola) y se usa para el clima, las recomendaciones y el aviso de calor. Antes la adivinaba por internet y podia equivocarse de comuna.",
+  "codigo": 189,
+  "url": "https://github.com/Voltaicspa2026/kuyda-actualizaciones/releases/download/v189/kuyda-hub-tv.apk",
+  "notas": "v189: la tele sabe su comuna por el Wi-Fi y el celular por su GPS (alertas de su region); el aviso flotante se retira solo (emergencia 5 min)",
   "obligatoria": false
 }
