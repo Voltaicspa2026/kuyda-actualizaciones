@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.0",
-    "codigo":  183,
-    "url":  "https://github.com/Voltaicspa2026/kuyda-actualizaciones/releases/download/v183/kuyda-hub-tv.apk",
-    "notas":  "Modo calor y limpieza de instaladores viejos",
-    "obligatoria":  false
+  "version": "1.0.0",
+  "codigo": 186,
+  "url": "https://github.com/Voltaicspa2026/kuyda-actualizaciones/releases/download/v186/kuyda-hub-tv.apk",
+  "notas": "El aviso de emergencia del barrio ahora dice quien pide ayuda y donde (por ejemplo: La Señora Carmen, de Lanceros del Rey, solicita ayuda urgente). Llega tambien cuando la tele esta en otra cosa. Y con el Hub abierto el aviso ya no sale dos veces.",
+  "obligatoria": false
 }
