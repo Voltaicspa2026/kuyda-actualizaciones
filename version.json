@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "codigo": 190,
-  "url": "https://github.com/Voltaicspa2026/kuyda-actualizaciones/releases/download/v190/kuyda-hub-tv.apk",
-  "notas": "El aviso de ayuda de un vecino ya no se queda pegado en la pantalla: se retira solo a los 5 minutos o cuando se borra. Y al abrir el Hub se revisa si hay version nueva.",
+  "codigo": 191,
+  "url": "https://github.com/Voltaicspa2026/kuyda-actualizaciones/releases/download/v191/kuyda-hub-tv.apk",
+  "notas": "Los carteles pasan enteros, sin cortarse: se puede elegir cuantas veces pasa el mensaje y, en la cinta vertical, el lado y la altura. El aviso late entero, la pregunta para dejar entrar un telefono sale encima de la tele y los recordatorios pasan como cinta.",
   "obligatoria": false
 }
